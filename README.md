@@ -26,3 +26,5 @@ Swap 1,500+ cryptocurrencies across 9+ instant exchange partners with fixed & fl
   https://coinoswap.com/blogs/monero-swap-guide-2025-no-kyc-coinoswap/
 - **Swap Zano (ZANO) instantly — step-by-step guide:**  
   https://coinoswap.com/blogs/zano-swap-guide-2025-no-kyc-coinoswap/
+- **Swap Kaspa (KAS) — step-by-step guide:**  
+  https://coinoswap.com/blogs/kaspa-swap-guide-2025-no-kyc-coinoswap/
