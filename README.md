@@ -1,16 +1,22 @@
-## Hi there 👋
+# CoinoSwap — Instant Crypto Exchange Aggregator
 
-<!--
-**coinoswap/coinoswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Swap 1,500+ cryptocurrencies across 9+ instant exchange partners with fixed & floating rates. **Non-custodial and no account needed.**  
+**Let you swap directly to and from your own wallet — simply paste your receiving address, no login or account needed.**
 
-Here are some ideas to get you started:
+**Product flow:** Pick your coin → Choose your exchange → Paste your wallet → That’s it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why CoinoSwap
+- Best-available rates from 9+ partners (aggregated)
+- Cross-chain swaps with transparent partner pricing
+- No KYC / No signup for swaps
+- Fast, simple UI
+
+👉 **Start swapping:** https://coinoswap.com/?utm_source=github&utm_medium=profile_readme
+
+### Learn & How-tos
+- Swap stablecoins (USDT/USDC/DAI) to BTC/ETH:  
+  https://coinoswap.com/blogs/2025/04/21/swap-stablecoins-btc-or-eth-no-kyc/?utm_source=github&utm_medium=profile_readme
+- Buy crypto without KYC (limits):  
+  https://coinoswap.com/blogs/2025/04/18/buy-crypto-without-kyc-2025/?utm_source=github&utm_medium=profile_readme
+- Cross-chain swaps (beginner’s guide):  
+  https://coinoswap.com/blogs/what-is-a-cross-chain-swap/?utm_source=github&utm_medium=profile_readme
