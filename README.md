@@ -13,10 +13,16 @@ Swap 1,500+ cryptocurrencies across 9+ instant exchange partners with fixed & fl
 
 👉 **Start swapping:** https://coinoswap.com/?utm_source=github&utm_medium=profile_readme
 
-### Learn & How-tos
-- Swap stablecoins (USDT/USDC/DAI) to BTC/ETH:  
+## Learn & How-tos (quick reads)
+- Swap stablecoins (USDT/USDC/DAI) → BTC/ETH — step-by-step:  
   https://coinoswap.com/blogs/swap-stablecoins-btc-or-eth-no-kyc/?utm_source=github&utm_medium=profile_readme
-- Buy crypto without KYC (limits):  
+- Buy crypto without KYC in 2025 — what’s possible & limits:  
   https://coinoswap.com/blogs/buy-crypto-without-kyc-2025/?utm_source=github&utm_medium=profile_readme
-- Cross-chain swaps (beginner’s guide):  
+- What is a cross-chain swap (beginner’s guide):  
   https://coinoswap.com/blogs/what-is-a-cross-chain-swap/?utm_source=github&utm_medium=profile_readme
+
+**Pair-specific quickstarts**
+- **Swap Monero (XMR) instantly — step-by-step guide:**  
+  https://coinoswap.com/blogs/monero-swap-guide-2025-no-kyc-coinoswap/
+- **Swap Zano (ZANO) instantly — step-by-step guide:**  
+  https://coinoswap.com/blogs/zano-swap-guide-2025-no-kyc-coinoswap/
