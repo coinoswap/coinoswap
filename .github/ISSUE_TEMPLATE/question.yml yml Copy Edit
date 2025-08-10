@@ -1,0 +1,15 @@
+name: General question
+description: Ask a how-to or workflow question (minimums, rate choice, networks).
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: "For quick answers, you can also use Discussions: https://github.com/coinoswap/coinoswap-examples/discussions"
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      placeholder: e.g., When should I choose Fixed vs Floating for USDT → BTC?
+    validations:
+      required: true
